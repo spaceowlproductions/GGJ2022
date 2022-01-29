@@ -1,14 +1,36 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnity", "FMODUnity.csproj", "{9645C0C2-D586-2ACB-B0DC-24A95CFFD747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonance", "FMODUnityResonance.csproj", "{24FC230C-C929-8273-EF75-D36BCFE4819E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityEditor", "FMODUnityEditor.csproj", "{EA5370BE-8834-90D5-E7B4-5599B0D6618C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonanceEditor", "FMODUnityResonanceEditor.csproj", "{55C2D2AA-9CD5-3324-95A3-6998236FEF8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{9645C0C2-D586-2ACB-B0DC-24A95CFFD747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9645C0C2-D586-2ACB-B0DC-24A95CFFD747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9645C0C2-D586-2ACB-B0DC-24A95CFFD747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9645C0C2-D586-2ACB-B0DC-24A95CFFD747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FC230C-C929-8273-EF75-D36BCFE4819E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC230C-C929-8273-EF75-D36BCFE4819E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC230C-C929-8273-EF75-D36BCFE4819E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC230C-C929-8273-EF75-D36BCFE4819E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5370BE-8834-90D5-E7B4-5599B0D6618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5370BE-8834-90D5-E7B4-5599B0D6618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5370BE-8834-90D5-E7B4-5599B0D6618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5370BE-8834-90D5-E7B4-5599B0D6618C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C2D2AA-9CD5-3324-95A3-6998236FEF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C2D2AA-9CD5-3324-95A3-6998236FEF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C2D2AA-9CD5-3324-95A3-6998236FEF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C2D2AA-9CD5-3324-95A3-6998236FEF8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
